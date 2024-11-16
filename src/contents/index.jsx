@@ -40,6 +40,8 @@ export const product = [
           "Easily add new devices and integrations as your smart home ecosystem grows, ensuring long-term usability and flexibility.",
       },
     ],
-    link: "/features",
+    image: "/productImg1.jpg",
+    link: '/features',
+    linkText: 'Learn More',
   },
 ];
