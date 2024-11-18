@@ -18,7 +18,7 @@ export default function HomePage() {
         />
       ))}
       <a
-        href="/contactus"
+        href="/contact"
         className="underline hover:bg-orange-100 py-4 px-8 rounded-lg max-w-max font-bold text-xl "
       >
         Contact Us

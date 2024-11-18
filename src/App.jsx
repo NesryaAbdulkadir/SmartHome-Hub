@@ -1,5 +1,5 @@
 import { useState } from "react";
-import CustomRoutes from "./url";
+import CustomRoutes from "./routes";
 
 function App() {
   return (

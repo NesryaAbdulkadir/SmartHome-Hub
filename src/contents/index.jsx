@@ -8,40 +8,42 @@ export const product = [
         feature: "Universal Device Compatibility",
         description:
           "Connect and control a wide range of smart devices from different brands, including lights, locks, cameras, and thermostats, all in one place.",
+        image: "/device.svg",
       },
+
       {
         feature: "Voice Control Integration",
         description:
           "Seamlessly works with popular voice assistants like Amazon Alexa, Google Assistant, and Apple Siri, allowing users to control their smart home with simple voice commands.",
+        image: "/voiceControl.svg",
       },
       {
         feature: "Customizable Automation",
         description:
           "Create personalized automation routines that trigger actions based on time, location, or device status, enhancing home efficiency and comfort.",
+        image: "/customization.svg",
       },
       {
         feature: "User-Friendly Mobile App",
         description:
           "A sleek mobile app provides easy access to all connected devices, enabling remote control and monitoring from anywhere.",
+        image: "userfriendly.svg",
       },
       {
         feature: "Real-Time Notifications",
         description:
           "Receive alerts for important events, such as unusual activity detected by security cameras or when the door is left unlocked, ensuring peace of mind.",
+        image: "/notifiaction.svg",
       },
       {
         feature: "Energy Monitoring",
         description:
           "Track energy consumption of connected devices to promote energy efficiency and reduce utility bills.",
-      },
-      {
-        feature: "Expandable System",
-        description:
-          "Easily add new devices and integrations as your smart home ecosystem grows, ensuring long-term usability and flexibility.",
+        image: "/monitoring.svg",
       },
     ],
     image: "/productImg1.jpg",
-    link: '/features',
-    linkText: 'Learn More',
+    link: "/features",
+    linkText: "Learn More",
   },
 ];
