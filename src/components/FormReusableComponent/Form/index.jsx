@@ -96,7 +96,7 @@ export default function Form({
   }
 
   return (
-    <form onSubmit={handleSubmit}>
+    <form onSubmit={handleSubmit} className="flex flex-col gap-5 w-8/12">
       {formControl?.length
         ? formControl.map((singleFormControl) => (
             <div key={singleFormControl?.name}>
